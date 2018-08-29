@@ -1,3 +1,3 @@
 # G-ProjectDocs
-Mirrored copy of the original repository for the intelligent transport system project 2017 -2018 
+Mirrored copy of the original group project repository for the intelligent transport system project 2017 -2018 
 The repository contains documentation such as the budget, project overview, eportfolio design documents, meeting minutes etc...
